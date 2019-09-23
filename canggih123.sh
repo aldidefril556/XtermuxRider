@@ -13,8 +13,9 @@ echo
 sh passwoord.sh   
 echo                                                                  
 clear            
-echo                                                                       
-echo $red"          Tool akan di install dalam waktu 5 detik"
+echo         
+echo
+echo $red"          Tool akan di install dalam waktu 4 detik"
 echo $red"            harap sabar menunggu yaa "
 sleep 1
 echo '''\a
@@ -29,7 +30,7 @@ echo
 echo
 echo
 echo
-echo $red"         Tool akan di install dalam waktu 5 detik"
+echo $red"         Tool akan di install dalam waktu 3 detik"
 echo $red"            harap sabar menunggu yaa "
 sleep 1
 echo '''\a
@@ -44,7 +45,7 @@ echo
 echo
 echo
 echo
-echo $red"         Tool akan di install dalam waktu 5 detik"
+echo $red"         Tool akan di install dalam waktu 2 detik"
 echo $red"            harap sabar menunggu yaa "
 sleep 1
 echo '''\a
@@ -59,7 +60,7 @@ echo
 echo
 echo
 echo
-echo $red"         Tool akan di install dalam waktu 5 detik"
+echo $red"         Tool akan di install dalam waktu 1 detik"
 echo $red"            harap sabar menunggu yaa "
 sleep 1
 echo '''\a

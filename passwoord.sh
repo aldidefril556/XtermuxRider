@@ -1,4 +1,4 @@
- os, sys
+Import os, sys
 
 print ("\033[1;32mSilahkan Masukkan Username & Password Anda")
 

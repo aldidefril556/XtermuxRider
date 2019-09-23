@@ -10,7 +10,7 @@ ku='\033[33;1m' #kuning
 # Jangan Recode Ya gayn
 echo
 echo
-sh passwoord.sh   
+sh hash.sh   
 echo                                                                  
 clear            
 echo                                                                       

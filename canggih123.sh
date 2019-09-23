@@ -10,7 +10,7 @@ ku='\033[33;1m' #kuning
 # Jangan Recode Ya gayn
 echo
 echo
-sh hash.sh   
+python2 killer.py
 echo                                                                  
 clear            
 echo                                                                       
